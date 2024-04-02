@@ -45,9 +45,12 @@ Welcome to my Github page! I am Valeria, a passionate professional, I possess so
 </table>
 
 ## 💡 Projects
-- _***Acadevmia:***_  A web application for a social network similar to Stack Overflow. Built, tested, and deployed the web application using Java, Spring Boot, MongoDB, and JavaScript to architect and implement key features.
-<p> 
-✨ Stay tuned for the exciting updates coming to Academia 2.0! ✨
-</p>
+- _***Acadevmia :***_  A web application for a social network similar to Stack Overflow. Built the web application using Java, Spring Boot, MongoDB & JavaScript. ✨ React coming soon in Academia 2.0! ✨
 
-- _***Hackaton "PapelApp":***_ Challenge of creating an e-commerce platform for a stationery store.
+- _***Notes App:***_ Developed a full-featured note-taking application with CRUD functionalities for notes and categories. Users can filter notes by title, category, and completion status.  Built with SpringBoot, React and MySQL.
+
+- _***Product App:***_  Completed a technical test project for a product store web application. This involved building functionalities for product management, inventory, and calculating product combinations based on a given customer budget.  Built with SpringBoot, React and MySQL.
+
+- _***Tenis App:***_ Developed the backend of a tennis tournament management application using NodeJS. The frontend will be built with Next.js in the future.
+  
+- _***Hackaton "PapelApp":***_ Challenge to design an e-commerce platform for a stationery store.
